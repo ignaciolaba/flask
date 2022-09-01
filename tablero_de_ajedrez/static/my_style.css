@@ -1,0 +1,12 @@
+
+        table, tr, td {
+            margin: 0px;
+            padding: 0;
+            border-spacing: 1px;
+        }
+        td {
+            height: 30px;
+            width: 30px;
+        }
+
+        
